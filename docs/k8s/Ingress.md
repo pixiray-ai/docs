@@ -492,5 +492,6 @@ SignalR offers a robust architecture that enables developers to implement real-t
 
 - [Kubernetes CheatSheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [Document reverse proxy usage with SignalR #10827](https://github.com/dotnet/AspNetCore.Docs/issues/10827)
-
+- [Enable CORS in NGINX INGRESS](https://kubernetes.github.io/ingress-nginx/user-guide/nginx-configuration/annotations/#enable-cors)
+- [ASPNET CORE SIGNAL R in PRODUCTION](https://learn.microsoft.com/en-us/aspnet/core/signalr/scale?view=aspnetcore-7.0)
 
